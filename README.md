@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ItsMikeUh
-- 👀 I’m interested in retail
 - 🌱 I’m currently learning python
 
 
